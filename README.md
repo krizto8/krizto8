@@ -1,63 +1,6 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientText {
-				  0% {
-				    background-position: 0% 50%;
-				  }
-				  50% {
-				    background-position: 100% 50%;
-				  }
-				  100% {
-				    background-position: 0% 50%;
-				  }
-				}
-        .snowflake {
-          color: #fff;
-          font-size: 1em;
-          font-family: Arial;
-          text-shadow: 0 0 1px #000;
-        }
-				h1 {
-				  font-family: 'Inter',
-					-apple-system,
-					BlinkMacSystemFont, 
-					'Segoe UI', 
-					'Roboto', 
-					'Oxygen', 
-					'Ubuntu', 
-					'Cantarell', 
-					'Fira Sans', 
-					'Droid Sans', 
-					'Helvetica Neue', 
-					sans-serif;
-				  margin: 0;
-				  font-size: 4em;
-				  font-weight: 900;
-				  letter-spacing: -.05em;
-				  text-align: center;
-				  background: -webkit-linear-gradient(right,#37ecba,#72afd3);
-				  background: linear-gradient(270deg,#37ecba0,#72afd3);
-				  background-size: 200%;
-				  background-clip: text;
-				  -webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
-				  -webkit-animation: gradientText 3s ease infinite;
-				  animation: gradientText 3s ease infinite;
-				}
-			</style>
-			<h1>Harikrishnan</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
-		</div>
-	</foreignObject>
-</svg>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/krizto8/krizto8/master/name.svg" alt="Marton Lederer" />
+</h1>
 <h1 align="center">Hi 👋, I'm Harikrishnan</h1>
 <h3 align="center">An enthusiastic Full Stack Developer currently pursuing B.Tech CSE in IIIT Gwalior</h3>
 
