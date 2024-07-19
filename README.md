@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/krizto8/krizto8/master/name.svg" alt="Harikrishnan" />
+  <img src="https://raw.githubusercontent.com/krizto8/krizto8/main/name.svg" alt="Harikrishnan" />
 </h1>
   
 
