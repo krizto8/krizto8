@@ -3,7 +3,8 @@
 </h1>
   
 
-### <div align="center">I'm Harikrishnan, an enthusiastic Full Stack developer pursuing B.Tech CSE from IIIT Gwalior</div>  
+### <div align="center">An enthusiastic Full Stack developer pursuing B.Tech CSE from IIIT Gwalior</div> 
+<div align="center">Making 'em electrons dance on rocks</div> 
   
 
 <br/>  
