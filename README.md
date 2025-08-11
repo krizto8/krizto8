@@ -1,89 +1,156 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/krizto8/krizto8/main/name.svg" alt="Harikrishnan" />
-</h1>
-  
-
-### <div align="center">An enthusiastic Full Stack developer pursuing B.Tech CSE from IIIT Gwalior</div> 
-
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
-### Front End
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Back End  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Databases  
-<div align="center">  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with Me  
+<!-- Terminal Style Introduction -->
 <div align="center">
-<a href="https://linkedin.com/in/harikrishnan-s-s-79219a257" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/krizto8" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/h_krishnan_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=06FFA5&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=❯+whoami;krizto8%40iiit-gwalior:~$+cat+profile.json;{%22name%22:%22Harikrishnan%20S%20S%22,%22role%22:%22Full%20Stack%20Developer%22};❯+echo+%22Building+digital+dreams+since+2021%22;Building+digital+dreams+since+2021" />
+</div>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
   
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 
-<br/>  
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+Mission: "Building the future, one commit at a time"
+Location: "India"
+Education: "B.Tech CSE @ IIIT Gwalior"
+Role: "Full Stack Developer"
+Passion: "Crafting seamless digital experiences"
+Night Owl: "Best code happens after midnight"
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"> Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,sass,materialui" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=16213e" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white&labelColor=0f3460" />
+</p>
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"> Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,git,bash,nextjs,docker" />
+</p>
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"> Database
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
+<div align="center">
+  
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=krizto8&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krizto8&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krizto8&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krizto8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=krizto8&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect & Build Something Amazing!
+
+<div align="center">
+  
+<a href="https://linkedin.com/in/harikrishnan-s-s-79219a257">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="https://github.com/krizto8">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</a>
+<a href="https://instagram.com/h_krishnan_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"> **Email:** ssharikrishnan8@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"> **Portfolio:** (https://krizto8.github.io/Portfolio/)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Developer Chronicles
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krizto8&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Current Mission Status
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> **Goal** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"> **Progress** | <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> **Status** |
+|------------|----------------|---------------|
+| Master React.js | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"> On Fire |
+| Learn Next.js 13+ | ![Progress](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25"> Progressing |
+| Backend Mastery | ![Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="25"> Strong |
+| Database Skills | ![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="25"> Solid |
+| DevOps Knowledge | ![Progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Growing |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Fun Zone
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krizto8&theme=github_dark)
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=krizto8&style=for-the-badge&color=blueviolet&labelColor=black" alt="Profile Views" />
+
+**<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Star some repositories if you found them interesting!**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Happy+Coding!;Let's+Build+The+Future!;Keep+Learning%2C+Keep+Growing!" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=150&section=footer&animation=twinkling" />
+</div>
