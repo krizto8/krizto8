@@ -3,7 +3,7 @@
 
 <!-- Terminal Style Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=06FFA5&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=❯+whoami;krizto8%40iiit-gwalior:~$+cat+profile.json;{%22name%22:%22Harikrishnan%20S%20S%22,%22role%22:%22Full%20Stack%20Developer%22};❯+echo+%22Building+digital+dreams+since+2021%22;Building+digital+dreams+since+2021" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=06FFA5&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=❯+whoami;krizto8%40iiit-gwalior:~$+cat+profile.json;{%22name%22:%22Harikrishnan%20S%20S%22,%22role%22:%22Full%20Stack%20Developer%22};❯+echo+%22Building+digital+dreams+since+2021%22;Building+digital+dreams+since+2021" />
 </div>
 
 
