@@ -94,19 +94,6 @@ Night Owl: "Best code happens after midnight"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Current Mission Status
-
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> **Goal** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"> **Progress** | <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> **Status** |
-|------------|----------------|---------------|
-| Master React.js | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"> On Fire |
-| Learn Next.js 13+ | ![Progress](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25"> Progressing |
-| Backend Mastery | ![Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="25"> Strong |
-| Database Skills | ![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="25"> Solid |
-| DevOps Knowledge | ![Progress](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9500&successColor=65C5DB) | <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25"> Growing |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
