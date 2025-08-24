@@ -1,14 +1,4 @@
 
-
-
-<!-- Terminal Style Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=06FFA5&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=❯+whoami;krizto8%40iiit-gwalior:~$+cat+profile.json;{%22name%22:%22Harikrishnan%20S%20S%22,%22role%22:%22Full%20Stack%20Developer%22};❯+echo+%22Building+digital+dreams+since+2021%22;Building+digital+dreams+since+2021" />
-</div>
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -99,10 +89,6 @@ Night Owl: "Best code happens after midnight"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"> **Portfolio:** (https://krizto8.github.io/Portfolio/)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Developer Chronicles
 
 
 
