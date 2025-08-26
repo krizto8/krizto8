@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Harikrishnan+S+S;Full+Stack+Developer;Code+Enthusiast" alt="Typing SVG" />
+  <img src="imagee.png" width="100%" alt="Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&weight=400&size=42&duration=1&pause=1000000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harikrishnan+S+S" alt="Title" />
 </div>
 
 ## About Me
 - 🎓 B.Tech CSE @ IIIT Gwalior
-- 💻 Full Stack Developer from India
-- 🚀 Building the future, one commit at a time
-- 🌙 Night owl - best code happens after midnight
+- 💻 Full Stack Developer
+- 🕹️ MERN, DevOps, DSA
 
 ## Tech Stack
 
