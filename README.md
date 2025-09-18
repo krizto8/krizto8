@@ -40,7 +40,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizto8&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krizto8&layout=compact&theme=dark&hide_border=true)
-
+<!--
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan-s-s-79219a257)
@@ -48,7 +48,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/h_krishnan_)
 
 📧 **Email:** ssharikrishnan8@gmail.com  
-🌐 **Portfolio:** [krizto8.github.io/Portfolio](https://krizto8.github.io/Portfolio/)
+🌐 **Portfolio:** [krizto8.github.io/Portfolio](https://krizto8.github.io/Portfolio/)-->
 
 ---
 
