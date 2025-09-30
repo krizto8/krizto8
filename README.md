@@ -1,10 +1,9 @@
 <div align="center">
   <img src="imagee.png" width="100%" alt="Banner" />
 </div>
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&weight=400&size=42&duration=1&pause=1000000&color=77D7EB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harikrishnan+S+S" alt="Title" />
-</div>-->
+</div>
 
 ## About Me
 - 🎓 B.Tech CSE @ IIIT Gwalior
@@ -34,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-<!--
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizto8&show_icons=true&theme=dark&hide_border=true&count_private=true)
@@ -48,7 +47,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/h_krishnan_)
 
 📧 **Email:** ssharikrishnan8@gmail.com  
-🌐 **Portfolio:** [krizto8.github.io/Portfolio](https://krizto8.github.io/Portfolio/)-->
+🌐 **Portfolio:** [krizto8.github.io/Portfolio](https://krizto8.github.io/Portfolio/)
 
 ---
 
