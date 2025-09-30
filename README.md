@@ -1,14 +1,15 @@
 <div align="center">
   <img src="wp11842506.png" width="100%" alt="Banner" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&weight=400&size=42&duration=1&pause=1000000&color=77D7EB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harikrishnan+S+S" alt="Title" />
-</div>
+</div> -->
 
 ## About Me
-- 🎓 B.Tech CSE @ IIIT Gwalior
-- 💻 Full Stack Developer
-- 🕹️ MERN, DevOps, DSA
+<div align="center">
+<b>🎓 B.Tech CSE @ IIIT Gwalior &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🕹️ MERN, DevOps, DSA</b>
+</div>
+
 
 ## Tech Stack
 
