@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="wp11842506.png" width="100%" alt="Banner" />
+  <!-- <img src="wp11842506.png" width="100%" alt="Banner" /> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 </div>
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&weight=400&size=42&duration=1&pause=1000000&color=77D7EB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harikrishnan+S+S" alt="Title" />
