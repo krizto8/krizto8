@@ -21,8 +21,11 @@
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizto8&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krizto8&layout=compact&theme=dark&hide_border=true) |
-| --- | --- |
+<div align="center">
+  
+![](https://metrics.lecoq.io/krizto8?template=classic&config.timezone=Asia%2FKolkata)
+
+</div>
 
 ## Connect with Me
 
